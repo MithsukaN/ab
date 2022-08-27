@@ -1,0 +1,195 @@
+/* Font */
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fredoka+One&family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500;700&display=swap');
+
+
+/* font-family: 'Bebas Neue', cursive;
+font-family: 'Fredoka One', cursive;
+font-family: 'Staatliches', cursive; */
+
+#title{
+    background-color: black;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.title-text1{
+    color: #fff;
+    font-size: 55px;
+    line-height: 1.5;
+    padding-top: 15%;
+    letter-spacing: 2px;
+   
+
+}
+.title-text2{
+    color:red;
+    font-size: 25px;
+    line-height: 1.5;
+    padding-top: 1%;
+    padding-bottom: 5%;
+    word-spacing: 3px;;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.title-image{
+    width: 30%;
+    position:relative;
+    left: 50%;
+    top: -10px;
+    padding: 0 0 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.title-button{
+    width: 250px;
+    
+    
+}
+
+.nav-link:hover{
+    font-size: 18px;
+    color: red;
+}
+
+
+.navbar-brand{
+    font-size:30px;
+    font-family: 'Fredoka One';
+    color: red;   
+}
+
+.nav-item{
+    padding-left: 18%;
+}
+
+
+
+
+
+/* PRICING */
+
+
+#pricing{
+    padding: 100px;
+    padding-bottom: 0;
+    
+    
+}
+  
+.pricing-colomn{
+    padding: 3% 2%;
+    float: right;
+
+    
+}
+
+.pricing-head{
+    text-align: center;
+    padding-bottom: 1%;
+    font-family: 'Bebas Neue';
+    letter-spacing: 2px;
+    font-size: 50px;
+   
+}
+
+.card{
+    box-shadow: 4px 8px 2px;
+}
+.card-price{
+    padding-top: 3%;
+    text-align: center;
+    color: red;
+    font-family:'Fredoka One' ;
+    font-size: 70px;
+}
+.card-header{
+    text-align: center;
+}
+
+.card-footer{
+    text-align: center;
+    
+}
+
+.card-feature{
+    line-height: 35px;
+}
+
+
+
+
+
+/* Feature */
+
+
+#feature{
+    background-color: aliceblue;
+    padding: 5% ;
+    padding-top: 155px;
+}
+
+.feature-head{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.feature-box{
+    text-align: center;
+}
+.icon{
+    color:red;
+    
+}
+.icon:hover{
+    color:black;
+}
+.icon-text{
+    padding-top: 10px ;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+
+p.icon-text{
+    color: slategrey;
+}
+
+/* footer */
+
+
+.footer-pic{
+    width: 50%;
+    float: right;
+   
+}
+
+.footer-text{
+    padding: 5% 10% 10%;
+}
+.mail-sec{
+    text-align: left;
+    font-family: 'Ubuntu', sans-serif;
+}
+.footer-input{
+   background-color: red;
+}
+
+.footer-bg{
+    background-color: black;
+    padding: 10%;
+    text-align: center;
+}
+
+.footer-icon{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
